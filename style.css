@@ -1,0 +1,33 @@
+body {
+  background-color:lightblue;
+  
+   Display: flex;
+Justify-content: center;
+Align-items: center;
+ flex-direction:column;    
+text-align:center;     
+}
+
+
+
+       h1 {
+          color:orange;
+     
+       }
+        h3{
+          color:indigo;
+       }
+        
+       h2{
+          color:blue;
+          
+       }
+       
+img {
+  border: 1px solid #ddd;
+   width: 300px;
+   border-radius: 4px;
+/*   display: block;
+  margin-left: auto;
+  margin-right: auto; */
+}
