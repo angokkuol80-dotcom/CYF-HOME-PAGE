@@ -1,9 +1,9 @@
 body {
   background-color:lightblue;
   
-   Display: flex;
-Justify-content: center;
-Align-items: center;
+   display: flex;
+justify-content: center;
+align-items: center;
  flex-direction:column;    
 text-align:center;     
 }
